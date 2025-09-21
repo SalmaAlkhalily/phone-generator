@@ -56,9 +56,10 @@ PhoneGenerator/
 
 ## Building and Running
 
-### Using NetBeans IDE
-1. Open the project in NetBeans IDE
+### Using Any Java IDE (NetBeans, Eclipse, IntelliJ IDEA, etc.)
+1. Open the project in your preferred Java IDE
 2. Build and run the project using the IDE controls
+3. The main class is `phonegenerator.PhoneGenerator`
 
 ### Using Command Line with Ant
 ```bash
@@ -139,10 +140,11 @@ This is an educational/utility project. Feel free to fork and enhance with addit
 - Additional contact fields
 - International format support
 
-## Author
+## Authors
 
 - **Salma** - Main developer
+- **Yara** - Co-developer
 
 ## License
 
-This project is provided as-is for educational and utility purposes.
+This project was developed as a custom solution for a client. All rights reserved to the project commissioner.
